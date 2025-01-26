@@ -4,8 +4,8 @@ theme:
   name: material
 
 nav:
-  Home: index.md
-  Notebook: notebooks/test.ipynb
+  - Home: index.md
+  - Notebook: test.ipynb
 
 plugins:
   - mkdocs-jupyter
